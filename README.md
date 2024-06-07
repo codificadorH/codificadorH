@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! sejam muito bem vindos ao meu perfil 👾👾
 
-<!--
-**codificadorH/codificadorH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Fava e agradeço de 🧡 por conferir este perfil, espero que algum projeto meu possa despertar o seu interesse
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguafgem Javascript
+- Este perfil servirá como espaço para compartilhar meus projetos e me aprimorar de acordo com o seu feedback
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Caso queira entrar em contato comigo 📧
+
+  Meu email é: lukinhas.fava@gmail.com
+
+  
+  
+![](https://media1.tenor.com/m/m2HlW_iClNUAAAAC/demon-slayer-kimetsu-no-yaiba.gif)               
